@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
-  "publishConfig":{"registry":"https://npm.pkg.github.com/@saisuresh-banc91"}
+  "publishConfig":{"registry":"https://npm.pkg.github.com/@saisuresh-banc91"},
   "files": [
     "README.md",
     "android",
