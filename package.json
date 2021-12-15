@@ -1,10 +1,9 @@
 {
   "name": "react-native-carol-widget",
   "title": "React Native Carol Widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TODO",
   "main": "index.js",
-  "publishConfig":{"registry":"https://npm.pkg.github.com/@saisuresh"},
   "files": [
     "README.md",
     "android",
@@ -24,8 +23,8 @@
     "react-native"
   ],
   "author": {
-    "name": "saisuresh",
-    "email": "saisuresh.arumugam@card91.io"
+    "name": "Your Name",
+    "email": "yourname@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
